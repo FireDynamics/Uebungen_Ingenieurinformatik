@@ -1,0 +1,3 @@
+Dies ist eine Beispieldatei.
+Sie enthält mehrere Zeilen Text.
+Zum Üben des Dateilesens in Python.
