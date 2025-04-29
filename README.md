@@ -5,7 +5,7 @@
 | Nr. | Vorlesung                     | Thema                                                              | Aufgaben erstellt | Formatiert | Kontrolliert |
 |----:|:------------------------------|:-------------------------------------------------------------------|:-----------------:|:----------:|:------------:|
 |  1  | Einführung & erste Schritte   | Kursaufbau, Tools, Syntax, Variablen, Datentypen, `print()`        |        [x]        |    [x]     |     [x]      |
-|  2  | Python-Grundlagen II          | Listen                                                             |        [ ]        |    [ ]     |     [ ]      |
+|  2  | Python-Grundlagen II          | Listen                                                             |        [x]        |    [ ]     |     [ ]      |
 |  3  | Python-Grundlagen III         | Funktionen, Daten einlesen                                         |        [ ]        |    [ ]     |     [ ]      |
 |  4  | matplotlib                    | Liniendiagramme, Scatterplots, Subplots, Achsengestaltung          |        [ ]        |    [ ]     |     [ ]      |
 |  5  | NumPy I                       | Einführung, Array-Erzeugung, Zugriff auf Arrays                    |        [ ]        |    [ ]     |     [ ]      |
