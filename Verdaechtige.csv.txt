@@ -1,0 +1,15 @@
+Name,Geschlecht,Körpergröße in cm,Körperform,Haarfarbe,Augenfarbe,Stimme
+Alois Albert,mänlich,177,schlank,schwarz,braun,hoch
+Bettina Vorher,weiblich,156,muskulös,braun,blau,hoch
+Cassandra Rudolf,weiblich,145,schlank,schwarz,braun,tief
+Daisie Hemmingway,weiblich,180,muskulös,blond,braun,hoch
+Elias Förtser,mänlich,180,schlank,braun,grün,tief
+Eva Schubert,weiblich,167,schlank,orange,braun,hoch
+Gustavo Ostermann,mänlich,167,muskulös,schwarz,blau,tief
+Hanni Hallo,weiblich,178,muskulös,blond,grün,tief
+Ruth Müller,weiblich,162,schlank,blond,braun,hoch
+Sandor Taboo,mänlich,175,schlank,braun,blau,stumm
+Tanja von Ebenwald,weiblich,171,muskulös,blond,grün,tief
+Thomas Steinfeld,mänlich,172,schlank,braun,braun,hoch
+Ulrich Berg,mänlich,181,muskulös,schwarz,braun,hoch
+Werner Weißel,mänlich,180,muskulös,braun,blau,tief
